@@ -89,7 +89,7 @@ done
 
 ---
 
-## 🎯 Bug Bounty Workflow
+## Bug Bounty Workflow
 
 ### Phase 1: Asset Discovery
 ```bash
@@ -121,7 +121,7 @@ grep "8080\|8443" output/ports.json
 
 ---
 
-## 📊 Reading the Output
+## Reading the Output
 
 ### Subdomain File (`_subdomains.txt`)
 ```
@@ -321,7 +321,7 @@ cat output/*_subdomains.txt | \
 
 ---
 
-## 🎓 Learning Resources
+## Learning Resources
 
 ### Understanding Subdomain Enumeration
 - Why: Expand attack surface, find forgotten assets
