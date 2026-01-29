@@ -1,6 +1,6 @@
 # ReconX - Quick Start Guide (Creaed by me & my friend Gugugaga)
 
-## SETUO
+## SETUP
 
 ### Step 1: Clone & Install
 ```bash
