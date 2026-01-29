@@ -4,10 +4,9 @@
 
 ### Step 1: Clone & Install
 ```bash
-cd /opt
-git clone <your-repo-url> reconx
-cd reconx
+git clone https://github.com/Nimitzzzz/recontool/
 chmod +x install.sh reconx.py
+chmod +x ./reconx.py
 ./install.sh
 ```
 
