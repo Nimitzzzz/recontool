@@ -25,7 +25,7 @@ usage: reconx.py [-h] (-d DOMAIN | -l LIST) [--ports] [--headers]
 
 ---
 
-## 📝 Common Use Cases
+## Common Use Cases
 
 ### 1. Basic Subdomain Discovery
 ```bash
