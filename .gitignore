@@ -1,0 +1,52 @@
+
+# Python
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Virtual Environment
+
+venv/
+.env
+.env.*
+
+
+# Recon / Pentest Output
+
+output/
+outputs/
+report/
+reports/
+results/
+logs/
+
+*.txt
+*.json
+*.csv
+*.xml
+
+
+# Secrets (just in case)
+
+*.key
+*.pem
+*.crt
+*.p12
+*.token
+
+
+# OS / Editor
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary / Debug
+
+*.log
+*.tmp
+*.swp
