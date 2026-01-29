@@ -1,4 +1,4 @@
-# ReconX - Quick Start Guide (Creaed by me & my friend Gugugaga)
+# ReconX - Quick Start Guide (Creaed by me & my friend https://github.com/its-gugugaga)
 
 ## SETUP
 
